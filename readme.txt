@@ -1,2 +1,1 @@
-123456
-7891011
+Creating a new branch is quick And simple.
